@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\ASUS\Desktop\lenguaje\ejercicio 1\.metadata\.plugins\org.eclipse.jdt.core
+4083516711.index
+534554683.index
+1563725603.index
+1865797976.index
